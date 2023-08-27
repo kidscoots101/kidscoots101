@@ -5,7 +5,7 @@ I'm a passionate Web/Mobile developer and Machine Learning Engineer. Welcome to 
 - 🔭 I’m currently working on **[Project Name](https://github.com/yourusername/project-name)**
 - 🌱 I’m currently learning **Machine Learning** and **SwiftUI**
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **web development**, **Python**, or **anything tech-related**
+- 💬 Ask me about **web development**, **React**, or **anything tech-related**
 
 ---
 
