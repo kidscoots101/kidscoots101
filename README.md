@@ -1,9 +1,9 @@
-# Hi there, I'm [Your Name](https://yourwebsite.com) 👋
+# Hi there, I'm [Caleb](https://calebhan.vercel.app/) 👋
 
-I'm a passionate software developer and lifelong learner. Welcome to my GitHub profile! Feel free to explore my repositories, contributions, and projects.
+I'm a passionate Web/Mobile developer and Machine Learning Engineer. Welcome to my GitHub profile! Feel free to explore my repositories, contributions, and projects.
 
 - 🔭 I’m currently working on **[Project Name](https://github.com/yourusername/project-name)**
-- 🌱 I’m currently learning **Machine Learning** and **UI/UX Design**
+- 🌱 I’m currently learning **Machine Learning** and **SwiftUI**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **web development**, **Python**, or **anything tech-related**
 
@@ -11,34 +11,24 @@ I'm a passionate software developer and lifelong learner. Welcome to my GitHub p
 
 ## 🚀 Projects
 
-### [Project Name](https://github.com/yourusername/project-name)
-Short project description. What it does, why it's awesome, and key features.
+### [AttendINC](https://github.com/kidscoots101/inc-terminal-attendance)
+It's an attendance Web app for people in my club to take attendance. It made the attendnace taking process 100x faster due to the students scanning in themselves, instead of the admin personnel manually accounting for everyone's attendance. 
 
 ![Project Name Screenshot](project-screenshot.png)
 
-### [Another Cool Project](https://github.com/yourusername/cool-project)
-Brief project description and what problem it solves.
-
----
-
-## 🌟 Open Source Contributions
-
-- [Repository Name](https://github.com/organization/repo) - Contributed by fixing a bug related to XYZ.
+### [GrowCalth](https://github.com/sst-inc/GrowCalth)
+With an in-built step-tracker, it tracks the steps of SST Students and increases the house spirit among them. This further encourages students to contribute to their house points
+### [KKH Paediatric Anaesthesia Revamp](https://github.com/Aathithya-J/KKH-Revamp/tree/devh)
+A medical app for the doctors and nurses of KKH.
 
 ---
 
 ## 📫 Let's Connect
 
-- Twitter: [@your_username](https://twitter.com/your_username)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourname)
-- Personal Website: [yourwebsite.com](https://yourwebsite.com)
+- LinkedIn: [Caleb Han](https://www.linkedin.com/in/caleb-han-792349235/)
+- Personal Website: [calebhan.vercel.app](https://calebhan.vercel.app/)
 
 ---
-
-## 📊 GitHub Stats
-
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
-
 ---
 
 ## ☕ Let's Chat
