@@ -10,6 +10,7 @@ I'm a passionate Web/Mobile developer and Machine Learning Engineer. Welcome to 
 ---
 
 ## 🚀 Projects
+https://github.com/kidscoots101/kidscoots101/blob/551ee50fcb60d7474aaa79b9c3c68efded93b7c4/assets/AppIcon1024x1024.png
 
 ### [AttendINC](https://github.com/kidscoots101/inc-terminal-attendance)
 It's an attendance Web app for people in my club to take attendance. It made the attendnace taking process 100x faster due to the students scanning in themselves, instead of the admin personnel manually accounting for everyone's attendance. 
