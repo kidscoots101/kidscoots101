@@ -23,7 +23,8 @@ A medical app for the doctors and nurses of KKH.
 
 ---
 ## 🏆 Certifications
-<img src="assets/ai-badge.pdf" width="100" height="100">
+<img src="assets/ai-badge.png" width="100" height="100">
+<img src="assets/Caleb Han_709765-1.png" width="100" height="300">
 
 ---
 
