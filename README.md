@@ -21,7 +21,7 @@ A medical app for the doctors and nurses of KKH.
 
 ---
 ## 🏆 Certifications
-[Caleb Han_709765.pdf](https://github.com/kidscoots101/kidscoots101/files/12661001/Caleb.Han_709765.pdf)
+
 
 ---
 
