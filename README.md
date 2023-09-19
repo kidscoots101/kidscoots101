@@ -22,7 +22,7 @@ A medical app for the doctors and nurses of KKH.
 
 ---
 ## 🏆 Certifications
-(assets/AppIcon1024x1024.png)
+| <img src="./assets/AppIcon1024x1024.png" width="300" height="300" > |
 
 ---
 
