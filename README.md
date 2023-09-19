@@ -14,8 +14,6 @@ I'm a passionate Web/Mobile developer and Machine Learning Engineer. Welcome to 
 ### [AttendINC](https://github.com/kidscoots101/inc-terminal-attendance)
 It's an attendance Web app for people in my club to take attendance. It made the attendnace taking process 100x faster due to the students scanning in themselves, instead of the admin personnel manually accounting for everyone's attendance. 
 
-![Project Name Screenshot](attend-inc.jpeg)
-
 ### [GrowCalth](https://github.com/sst-inc/GrowCalth)
 With an in-built step-tracker, it tracks the steps of SST Students and increases the house spirit among them. This further encourages students to contribute to their house points
 ### [KKH Paediatric Anaesthesia Revamp](https://github.com/Aathithya-J/KKH-Revamp/tree/devh)
