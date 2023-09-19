@@ -1,6 +1,6 @@
 # Hi there, I'm [Caleb](https://calebhan.vercel.app/) 👋
 
-I'm a passionate Web/Mobile developer and Machine Learning Engineer. Welcome to my GitHub profile! Feel free to explore my repositories, contributions, and projects.
+I'm a 15 year old passionate Web/Mobile developer and Machine Learning Engineer. Welcome to my GitHub profile! Feel free to explore my repositories, contributions, and projects.
 
 - 🔭 I’m currently working on **[KKH Paediatric Anaesthesia Revamp](https://github.com/Aathithya-J/KKH-Revamp/tree/devh)**
 - 🌱 I’m currently learning **Machine Learning** and **SwiftUI**
@@ -8,6 +8,9 @@ I'm a passionate Web/Mobile developer and Machine Learning Engineer. Welcome to 
 - 💬 Ask me about **web development**, **React**, or **anything tech-related**
 
 ---
+
+## 🧍‍♂️ About me
+I current serve as the Chief Technology Offider (CTO) of SST Inc, an incubator which helps nurture startups along with like-minded programmers. I craft the React curriculum in the club, teach and assist students with any technical challenges or issues they may face. I started off learning React on my own, curious to see the endless possibilites app development offers. In 2022, I signed up as a Task Force member to help CTOs teach React. Being inspired, I applied for the CTO position in 2023 and here I am!
 
 ## 🚀 Projects
 <img src="assets/AppIcon1024x1024.png" width="100" height="100" > <img src="assets/growcalth.jpg" width="100" height="100" > 
