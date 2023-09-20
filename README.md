@@ -13,12 +13,12 @@ I'm a 15 year old passionate Web/Mobile developer and Machine Learning Engineer.
 I current serve as the Chief Technology Offider (CTO) of SST Inc, an incubator which helps nurture startups along with like-minded programmers. I craft the React curriculum in the club, teach and assist students with any technical challenges or issues they may face. I started off learning React on my own, curious to see the endless possibilites app development offers. In 2022, I signed up as a Task Force member to help CTOs teach React. Being inspired, I applied for the CTO position in 2023 and here I am!
 
 ## What I do
-- React
-  - Both Native and Web
-- Cloud Computing
-- Python
-  - Competitive programming
-  - Algorithms, Image Processing
+- 💻React
+  - 📱 Both Native and Web
+- ☁️ Cloud Computing 
+- 🐍 Python
+  - 👨‍💻Competitive programming
+  - 🌇 Algorithms, Image Processing
 
 ## 🚀 Projects
 <img src="assets/AppIcon1024x1024.png" width="100" height="100" > <img src="assets/growcalth.jpg" width="100" height="100" > 
