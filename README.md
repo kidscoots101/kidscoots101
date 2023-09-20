@@ -21,7 +21,7 @@ I current serve as the Chief Technology Offider (CTO) of SST Inc, an incubator w
   - 🌇 Algorithms, Image Processing
 
 ## 🚀 Projects
-<img src="assets/AppIcon1024x1024.png" width="100" height="100" > <img src="assets/growcalth.jpg" width="100" height="100" > <img src="assets/CB.jpeg" width="100" height="100">  <img src="assets/png" width="100" height="100">
+<img src="assets/AppIcon1024x1024.png" width="100" height="100" > <img src="assets/growcalth.jpg" width="100" height="100" > <img src="assets/CB.jpeg" width="100" height="100">  <img src="assets/SD.png" width="100" height="100">
 
 ### [AttendINC](https://github.com/kidscoots101/inc-terminal-attendance)
 It's an attendance Web app for people in my club to take attendance. It made the attendnace taking process 100x faster due to the students scanning in themselves, instead of the admin personnel manually accounting for everyone's attendance. 
