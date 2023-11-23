@@ -48,7 +48,7 @@ A medical app for the doctors and nurses of KKH.
 
 ## ☕ Let's Chat
 
-Feel free to reach out if you want to collaborate on projects, discuss tech trends, or just have a chat over a virtual coffee!
+Shoot me an email over at calebhan08js@gmail.com if you would like to chat!
 
 
 <!---
