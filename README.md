@@ -24,9 +24,9 @@ I current serve as the Chief Technology Offider (CTO) of SST Inc, an incubator w
 <img src="assets/AppIcon1024x1024.png" width="100" height="100" > <img src="assets/growcalth.jpg" width="100" height="100" > <img src="assets/CB.jpeg" width="100" height="100">  <img src="assets/SD.png" width="100" height="100">
 
 ### [AttendINC](https://github.com/kidscoots101/inc-terminal-attendance)
-It's an attendance Web app for people in my club to take attendance. It made the attendnace taking process 100x faster due to the students scanning in themselves, instead of the admin personnel manually accounting for everyone's attendance. 
+It's an attendance Web app for people in my club to take attendance. It made the attendnace taking process 100x faster due to the students scanning in themselves, instead of the admin personnel manually accounting for everyone's attendance. Check it out here: https://bit.ly/attendinc
 
-### [GrowCalth](https://github.com/sst-inc/GrowCalth)
+### [GrowCalth](https://apps.apple.com/sg/app/growcalth/id6456388202?uo=2)
 With an in-built step-tracker, it tracks the steps of SST Students and increases the house spirit among them. This further encourages students to contribute to their house points
 
 ### [KKH Paediatric Anaesthesia Revamp](https://github.com/Aathithya-J/KKH-Revamp/tree/devh)
