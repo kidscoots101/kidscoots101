@@ -14,7 +14,6 @@ I've done many tech-related projects; and am willing to work on more! These proj
 - LinkedIn: [Caleb Han](https://www.linkedin.com/in/caleb-han-792349235/)
 - Website: [calebhan.vercel.app](https://calebhan.vercel.app/)
 
----
 <!---
 kidscoots101/kidscoots10
 1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
