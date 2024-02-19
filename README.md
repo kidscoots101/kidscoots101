@@ -1,4 +1,4 @@
-# Hi there, I'm [Caleb](https://calebhan.vercel.app/) 👋
+# Hey! I'm Caleb!
 
 I'm a 15 year old passionate Web/Mobile developer and Machine Learning Engineer. Welcome to my GitHub profile! Feel free to explore my repositories, contributions, and projects.
 
