@@ -6,6 +6,8 @@ I'm an eager start-up enthusiast, and aim to turn ideas into reality. I'm also a
 
 I've done many tech-related projects; and am willing to work on more! These projects include [AttendINC](https://attend-inc-sandy.vercel.app/), an efficient attendance taking system and [GrowCalth](https://apps.apple.com/sg/app/growcalth/id6456388202), a one-stop platform for students to partcipate actively in their houses. These are just a few; and you can view more at my [LinkedIn](https://www.linkedin.com/in/caleb-han-792349235/) profile.
 
+As a Computing+ student, I embarked on a project which was used for our coursework. It's a Python program which encompasses the power of Machine Learning (ML) and Image Processing to detect if a fish is ill or not. It aims to mitigate the fatality rate of fish due to parasites and diseases. We spent 6 months doing this to perfect the model and enhance it's accuracy. [FishML](https://github.com/kidscoots101/FishML) can be found in the hyper-link.
+
 
 ## Let's Connect
 
