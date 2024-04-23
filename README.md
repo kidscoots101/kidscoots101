@@ -8,6 +8,7 @@ I've done many tech-related projects; and am willing to work on more! These proj
 
 As a Computing+ student, I embarked on a project which was used for our coursework. It's a Python program which encompasses the power of Machine Learning (ML) and Image Processing to detect if a fish is ill or not. It aims to mitigate the fatality rate of fish due to parasites and diseases. We spent 6 months doing this to perfect the model and enhance it's accuracy. [FishML](https://github.com/kidscoots101/FishML) can be found in the hyper-link.
 
+I currently serve as the Founder and CEO of GrowCalth, a startup founded by a group of friends in Singapore.
 
 ## Let's Connect
 
