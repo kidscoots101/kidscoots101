@@ -13,7 +13,7 @@ I currently serve as the Founder and CEO of GrowCalth, a startup founded by a gr
 ## Let's Connect
 
 - LinkedIn: [Caleb Han](https://www.linkedin.com/in/caleb-han-792349235/)
-- Website: [calebhan.vercel.app](https://calebhan.vercel.app/)
+- Website: [calebhan.me](https://calebhan.me)
 - Read.cv [read.cv/kidscoots](https://read.cv/kidscoots)
 
 <!---
