@@ -1,10 +1,9 @@
 # Hey! I'm Caleb!
-![](https://komarev.com/ghpvc/?username=kidscoots101)
 
 ![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidscoots101&show_icons=true&theme=vision-friendly-dark)
 
 ## About me 🙋‍♂️
-
+![](https://komarev.com/ghpvc/?username=kidscoots101) [![Build](https://img.shields.io/badge/Build-Passing-brightgreen)](https://github.com/kidscoots101)
 Currently a student at the [School of Science and Technology, Singapore](https://sst.edu.sg/) and an avid software developer.
 
 I'm an eager start-up enthusiast, and aim to turn ideas into reality. I'm also a goal-driven individual, who plans to launch my own start-up in the near future. Innovation and creativity fuel my passion for start-ups.
