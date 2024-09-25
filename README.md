@@ -1,5 +1,7 @@
 # Hey! I'm Caleb!
 
+![Caleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=kidscoots101&show_icons=true&theme=vision-friendly-dark)
+
 Currently a student at the [School of Science and Technology, Singapore](https://sst.edu.sg/) and an avid software developer.
 
 I'm an eager start-up enthusiast, and aim to turn ideas into reality. I'm also a goal-driven individual, who plans to launch my own start-up in the near future. Innovation and creativity fuel my passion for start-ups.
